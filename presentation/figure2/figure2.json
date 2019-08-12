@@ -1,0 +1,10 @@
+{
+    "figure2":{"a":{"counts":"/gscmnt/gc2645/wgs/qtl/leukos/data/gene_counts/gene_counts.tmm.gct",
+                    "de_genes":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_expression/de_genes.eGenes.txt.gz",
+                    "ensembl2symbol":"/gscmnt/gc2645/wgs/qtl/leukos/genome/mm10_ensembl2symbol.txt"},
+            "b":{"de_genes":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_expression/de_genes.eGenes.txt.gz",
+                "go_results":"/gscmnt/gc2645/wgs/qtl/leukos/data/go_annotations/de_genes.topGOResults.txt.gz",
+                "ensembl2go":"/gscmnt/gc2645/wgs/qtl/leukos/genome/mm10_ensembl2go.txt",
+                "ensembl2symbol":"/gscmnt/gc2645/wgs/qtl/leukos/genome/mm10_ensembl2symbol.txt"}
+    }
+}

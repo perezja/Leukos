@@ -1,0 +1,9 @@
+{
+    "figure3":{
+        "b":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_peaks/dars.sigPeaksFDR_0.05.txt.gz",
+        "c":{
+            "peak_annot":"/gscmnt/gc2645/wgs/qtl/leukos/data/peak_features/peak_features.gene_annot.txt",
+            "dars":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_peaks/dars.sigPeaksFDR_0.05.txt.gz"
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "figure1":{"a":"/gscmnt/gc2645/wgs/qtl/leukos/data/peak_counts/peak_counts.quant_norm.pct",
+            "b":{"rnaseq":"/gscmnt/gc2645/wgs/qtl/leukos/data/gene_counts/expression.pca.txt",
+                "atac":"/gscmnt/gc2645/wgs/qtl/leukos/data/peak_counts/accessibility.pca.txt"
+            }
+    }
+}

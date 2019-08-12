@@ -1,0 +1,31 @@
+GO.ID	Term	Annotated	Significant	Expected	Rank in Fisher.classic	Fisher.elim	Fisher.classic	Upregulated	Downregulated
+GO:0009725	response to hormone	463	10	2.03	1	0.072	4.552841968657781	0	0
+GO:0043434	response to peptide hormone	215	7	0.94	2	0.0055	4.3979400086720375	0	0
+GO:0010837	regulation of keratinocyte proliferation	18	3	0.08	3	6.2e-05	4.207608310501746	1	0
+GO:0045616	regulation of keratinocyte differentiati...	19	3	0.08	4	0.0375	4.130768280269024	1	0
+GO:1901652	response to peptide	255	7	1.12	5	1.0	3.9208187539523753	0	0
+GO:0043616	keratinocyte proliferation	23	3	0.1	6	1.0	3.886056647693163	0	0
+GO:0016310	phosphorylation	1545	17	6.78	7	0.0716	3.657577319177794	4	0
+GO:0019955	cytokine binding	72	4	0.3	1	0.0208	3.638272163982407	0	0
+GO:0000979	RNA polymerase II core promoter sequence...	30	3	0.13	2	0.00026000000000000003	3.585026652029182	2	1
+GO:0009719	response to endogenous stimulus	853	12	3.74	8	1.0	3.585026652029182	0	0
+GO:0045604	regulation of epidermal cell differentia...	30	3	0.13	9	0.0814	3.5228787452803374	0	0
+GO:0071495	cellular response to endogenous stimulus	752	11	3.3	10	0.3833	3.4436974992327127	0	0
+GO:0019838	growth factor binding	95	4	0.4	3	0.03966	3.1739251972991736	2	0
+GO:0001077	transcriptional activator activity, RNA ...	195	5	0.82	4	0.00132	2.87942606879415	0	0
+GO:0050431	transforming growth factor beta binding	17	2	0.07	5	0.0022600000000000003	2.645891560852599	2	2
+GO:0046332	SMAD binding	66	3	0.28	6	0.16713	2.575118363368933	0	2
+GO:0070412	R-SMAD binding	21	2	0.09	7	0.00346	2.4609239012072233	2	0
+GO:0016301	kinase activity	617	8	2.59	8	0.00394	2.404503778174426	5	0
+GO:0001046	core promoter sequence-specific DNA bind...	76	3	0.32	9	1.0	2.401209493236885	0	0
+GO:0001228	transcriptional activator activity, RNA ...	269	5	1.13	10	1.0	2.2765443279648143	6	1
+GO:0005578	proteinaceous extracellular matrix	171	4	0.73	1	0.0061	2.214670164989233	0	0
+GO:0031012	extracellular matrix	221	4	0.95	2	1.0	1.832682665251824	4	2
+GO:0005615	extracellular space	602	6	2.58	3	0.0432	1.3645162531850878	7	3
+GO:0005845	mRNA cap binding complex	11	1	0.05	4	0.0462	1.3353580244438745	0	0
+GO:0034518	RNA cap binding complex	11	1	0.05	5	0.0462	1.3353580244438745	0	0
+GO:0005751	mitochondrial respiratory chain complex ...	12	1	0.05	6	0.0503	1.2984320149440727	2	0
+GO:0061702	inflammasome complex	13	1	0.06	7	0.0544	1.26440110030182	1	0
+GO:0045277	respiratory chain complex IV	14	1	0.06	8	0.0584	1.2335871528876006	0	0
+GO:0098839	postsynaptic density membrane	14	1	0.06	9	0.0584	1.2335871528876006	0	0
+GO:0030014	CCR4-NOT complex	16	1	0.07	10	0.0665	1.1771783546968955	1	0

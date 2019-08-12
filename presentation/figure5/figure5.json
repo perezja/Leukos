@@ -1,0 +1,13 @@
+{
+    "figure5":{"a":"/gscmnt/gc2645/wgs/qtl/leukos/data/motif_annotations/homer_motifs.txt",
+            "b":{"motif_density":"/gscmnt/gc2645/wgs/qtl/leukos/data/motif_annotations/motifGeneDensity.dars.txt",
+                "de_genes":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_expression/de_genes.eGenes.txt.gz",
+                "gene2symbol":"/gscmnt/gc2645/wgs/qtl/leukos/genome/mm10_ensembl2symbol.txt"},
+            "c":{"tf_annot":"/gscmnt/gc2645/wgs/qtl/leukos/data/transcription_factor_annotations/tf_annot.txt",
+                "mean_peaks":"/gscmnt/gc2645/wgs/qtl/leukos/data/peak_counts/mean_counts.accessibility.pct",
+                "mean_exp":"/gscmnt/gc2645/wgs/qtl/leukos/data/gene_counts/mean_expression.tmm.gct",
+                "tf_go":"/gscmnt/gc2645/wgs/qtl/leukos/data/go_annotations/tf_ontology.topGOResults.txt.gz",
+                "dars":"/gscmnt/gc2645/wgs/qtl/leukos/data/diff_peaks/dars.txt"},
+            "d":"/gscmnt/gc2645/wgs/qtl/leukos/genome/mm10_ensembl2symbol.txt"
+    }
+}
